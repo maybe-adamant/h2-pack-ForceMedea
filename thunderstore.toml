@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 
 [package]
 namespace = "adamant"
-name = "adamant-ForceMedea"
+name = "ForceMedea"
 versionNumber = "1.0.0"
 description = "Forces Medea to spawn to reduce death pity reset."
 websiteUrl = "https://github.com/maybe-adamant/h2-pack-ForceMedea"
