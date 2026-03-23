@@ -5,7 +5,6 @@
 ## Features
 
 - Guarantees that Medea will be one of the encounters in the City of Ephyra.
-- Useful for speedruns or specific strategies that rely on Medea's aid.
 
 ## Installation
 
