@@ -27,7 +27,7 @@ public.definition = {
     tooltip  = "Forces Medea to spawn to reduce death pity reset.",
     default  = false,
     dataMutation = true,
-    modpackModule = true,
+    modpack = "h2-modpack",
 }
 
 -- =============================================================================
